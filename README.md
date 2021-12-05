@@ -21,7 +21,7 @@
 + 풀이과정 gif
 ![KakaoTalk_20211205_220355722_03](https://user-images.githubusercontent.com/77609451/144748510-101582f5-1f09-48cd-8ca9-6db6e70ff00e.gif)
 
-  
+    
 ## 과제(4)
 
 + 4번은 해결 못했습니다
