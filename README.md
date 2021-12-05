@@ -27,7 +27,7 @@
 + 4번은 해결 못했습니다
 
 ## 과제(5) 
-+ 솔루션 사진
++ 솔루션 사진  
 ![KakaoTalk_20211205_221659867](https://user-images.githubusercontent.com/77609451/144748536-57b79aa3-b893-49b7-932e-23b1121b408e.jpg)
 + 풀이과정 gif
 ![KakaoTalk_20211205_220355722_01](https://user-images.githubusercontent.com/77609451/144748539-266798b6-977d-4c72-8b5f-3c4e8748836a.gif)
